@@ -161,9 +161,10 @@ span {
 
 .services-box {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 0,
+
     justify-content: space-between;
-    min-height: 25rem;
+    min-height: 35rem;
     margin-bottom: 1rem;
 }
 
